@@ -1,0 +1,3 @@
+/home/wxdl09/Openframe/FD/imageBasics-20200713/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wxdl09/Openframe/FD/imageBasics-20200713/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wxdl09/Openframe/FD/imageBasics-20200713/cmake-build-debug/CMakeFiles/imageBasics.dir
